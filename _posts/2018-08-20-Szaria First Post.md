@@ -1,6 +1,7 @@
 ---
 layout: post
-author: Szaria Thompson
+author: Szaria
+---
 What made me major in Computer Science?
 
 As a senior in high school, I had no clue what i wanted to major in. I considered every career under the sun including nursing, criminology, sociology, accounting, and mathematics. All of those career paths were all interesting to me but none of them spoke to me. At the time, i was apart of a youth initiative group called Delta Gems. This group was sponsered by the sorority Delta Sigma Theta Inc.. We would meet every other saturday to engage in a session full of activities. On this particular saturday, the theme was career readiness. There was a panel of professionals ranging from entrepuners, educators, finacial adviors, and a product manager from Cisco. Prior to this day, I didnt know there different careers in the technology field. The person representing as a product manager from Cisco was named Belinida Taylor. She had a presention about her job desciption, the various positions at Cisco, and how to get started in her field. After her prestation, a light bulb went off in my head. Thats the exact moment when i knew i wanted to be in the tech industy. However, i was still unsure of what position i wanted to take on. I spoke with Belinidia after the session was over and she offered me the opprotunity to shadow her. I was so excited to be in the company of someone so intelligent and willing to show me the Cisco Campus. 
