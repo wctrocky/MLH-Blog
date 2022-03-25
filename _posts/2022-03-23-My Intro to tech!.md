@@ -2,6 +2,8 @@
 layout: post
 author: Will
 ---
+How did my journey into tech begin?
+
 Over the years I have developed an ever-increasing interest in technology, starting from a young age
 and playing on the family computer, to as I grew older building my own computer as a passion project.<br>
 This brought me great joy and lead me to taking specialized courses in high school on the inter-working
