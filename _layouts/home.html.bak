@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-<style>
-h1 {
-  text-align: center;
-}
-</style>
+
 <h1>
     Welcome to the Tech Journal
 </h1>
