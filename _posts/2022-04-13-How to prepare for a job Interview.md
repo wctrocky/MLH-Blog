@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Szaria Thompson
+author: Szaria
 ---
 How to prepare for a Job Interview
 
