@@ -12,6 +12,10 @@ permalink: /contact
     width: 30%;
     float: left;
 }
+footer {
+	position: absolute;
+	right: 0;bottom:0;left:0;
+}
 </style>
 <center><h1>Contacting us!</h1></center>
 <div class="row">

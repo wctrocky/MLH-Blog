@@ -5,9 +5,40 @@ layout: default
 h1 {
   text-align: center;
 }
+.row{clear:both}
+
+.column{
+	padding-left: 50px;
+    width: 30%;
+    float: left;
+}
+footer {
+	position: absolute;
+	right: 0;bottom:0;left:0;
+}
 </style>
 <h1>
     Welcome to the Tech Journal
 </h1>
-<p>Welcome to my blog where I share my journey in technology!</p>
+<center>
+<p>Welcome to our Blog! This is where the students of WSSU share our journey through tech & the events that interest us!</p>
+<p><img src="test.png"></p>
+</center>
+<footer>
+<div class="row">
+    <div class="column">
+		<h3>William Talbert</h3>
+		<span><a href="https://www.linkedin.com/in/william-talbert-3795a220a/">LinkedIn</a></span>
+	</div>
+	<div class="column">
+        <h3>Angel Maynor</h3>
+		<span><a href="http://www.linkedin.com/in/angel-maynor">LinkedIn</a></span>
+	</div>
+	<div class="column">
+	    <h3>Szaria Thompson</h3>
+		<span><a href="https://www.linkedin.com/in/szaria-thompson-386018163/">LinkedIn</a></span>
+	</div>
+</div>
+
+</footer>
 {{ content }}
